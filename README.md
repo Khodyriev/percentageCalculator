@@ -3,13 +3,13 @@ The advantage of this function is - if you have a result of percentage integer's
 
 The function 'percentageCalculator' takes as a single parameter an object with such scheme:
 
-{
-    parameterName_1: numericValueOfParameter_1,
-    parameterName_2: numericValueOfParameter_2,
-    parameterName_3: numericValueOfParameter_3,
-    ........................................
-    parameterName_n: numericValueOfParameter_n
-}
+{\n
+    parameterName_1: numericValueOfParameter_1,\n
+    parameterName_2: numericValueOfParameter_2,\n
+    parameterName_3: numericValueOfParameter_3,\n
+    ........................................\n
+    parameterName_n: numericValueOfParameter_n\n
+}\n
 
 and, as a result, returns an object:
 
