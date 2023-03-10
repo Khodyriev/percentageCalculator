@@ -4,11 +4,11 @@ The advantage of this function is - if you have a result of percentage integer's
 The function 'percentageCalculator' takes as a single parameter an object with such scheme:
 
 {\n
-    parameterName_1: numericValueOfParameter_1,\n
-    parameterName_2: numericValueOfParameter_2,\n
-    parameterName_3: numericValueOfParameter_3,\n
-    ........................................\n
-    parameterName_n: numericValueOfParameter_n\n
+    parameterName_1: numericValueOfParameter_1,<br>
+    parameterName_2: numericValueOfParameter_2,<br>
+    parameterName_3: numericValueOfParameter_3,<br>
+    ........................................<br>
+    parameterName_n: numericValueOfParameter_n<br>
 }\n
 
 and, as a result, returns an object:
