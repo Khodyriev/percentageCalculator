@@ -3,17 +3,17 @@ The advantage of this function is - if you have a result of percentage integer's
 
 The function 'percentageCalculator' takes as a single parameter an object with such scheme:
 
-{\n
+{<br>
     parameterName_1: numericValueOfParameter_1,<br>
     parameterName_2: numericValueOfParameter_2,<br>
     parameterName_3: numericValueOfParameter_3,<br>
     ........................................<br>
     parameterName_n: numericValueOfParameter_n<br>
-}\n
+}
 
 and, as a result, returns an object:
 
-{
+{<br>
     parameterName_1: percentageOfParameter_1,<br>
     parameterName_2: percentageOfParameter_2,<br>
     parameterName_3: percentageOfParameter_3,<br>
@@ -30,14 +30,15 @@ Of course, you should be sure, that the sum of all parameters (from 1 to n) is o
 
 object for example:
 
-{
+{<br>
     red: 9,<br>
     green: 2,<br>
     blue: 3<br>
 }
 
 result:
-{
+
+{<br>
     "red": "64%",<br>
     "green": "14%",<br>
     "blue": "22%"<br>
